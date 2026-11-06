@@ -188,3 +188,7 @@ Project Repository: [Student Management System](https://github.com/divyaraju123/
 ### Postman – Create Student API
 
 ![Postman POST Request](screenshots/postman-post-student.png)
+
+### Postman – Retrieve All Students
+
+![GET Students](screenshots/postman-get-students.png)
