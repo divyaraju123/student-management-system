@@ -179,3 +179,12 @@ The project includes service-layer tests, controller tests, and repository tests
 GitHub: [@divyaraju123](https://github.com/divyaraju123)
 
 Project Repository: [Student Management System](https://github.com/divyaraju123/student-management-system)
+## Screenshots
+
+### Swagger UI – API Documentation
+
+![Swagger UI](screenshots/swagger-ui.png)
+
+### Postman – Create Student API
+
+![Postman POST Request](screenshots/postman-post-student.png)
